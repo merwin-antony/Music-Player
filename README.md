@@ -37,7 +37,7 @@ Java-Music-Player/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Java-Music-Player.git
+git clone https://github.com/YOUR_USERNAME/Music-Player.git
 ```
 
 ### 2. Open the Project
