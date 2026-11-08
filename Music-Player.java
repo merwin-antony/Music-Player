@@ -8,7 +8,7 @@ public class MusicPlayer {
     public static void main (String[] args) {
 
         // audio file formats (.wav, .au, .aiff)
-        String filepath = "src\\Ricky_Montgomery_-_Line_Without_a_Hook.wav";
+        String filepath = "ADD_YOUR_AUDIO_FILE_HERE";
         File file = new File(filepath);
 
         try (Scanner sc = new Scanner(System.in)) {
